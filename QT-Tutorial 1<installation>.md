@@ -1,1 +1,10 @@
 - go to this site (https://www.qt.io/download)
+- open terminal after finised your download.
+- pwd
+- cd Downloads/
+- ls (see your Download file,qt has been download or not,is there qt file ?,if y ,move next step)
+- ls -alh (you can see more deeper and make sure youre file has been download perfectly)
+- chmod +x yourfilename
+- ls -alh
+- ./yourfilename (the aplication you selected should appear on your dekstop)
+- click next and u will see 
