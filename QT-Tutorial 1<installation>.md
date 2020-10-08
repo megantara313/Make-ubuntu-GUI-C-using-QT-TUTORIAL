@@ -7,4 +7,5 @@
 - chmod +x yourfilename
 - ls -alh
 - ./yourfilename (the aplication you selected should appear on your dekstop)
-- click next and u will see 
+- click next and select QT 5.15.1 dekstop gcc 64 bit
+- 
