@@ -12,7 +12,7 @@ applications that run on various software and hardware platforms
 such as Linux, Windows, macOS, Android or embedded systems with little or no change in the underlying codebase 
 while still being a native application with native capabilities and speed.
 
-Qt is currently being developed by The Qt Company, a publicly listed company, and the Qt Project under open-source governance, involving individual developers and organizations working to advance Qt.[10][11][12] Qt is available under both commercial licenses[4] and open-source[13] GPL 2.0, GPL 3.0, and LGPL
+Qt is currently being developed by The Qt Company, a publicly listed company, and the Qt Project under open-source governance, involving individual developers and organizations working to advance Qt.Qt is available under both commercial licenses and open-source GPL 2.0, GPL 3.0, and LGPL
 
 Qt is used for developing graphical user interfaces (GUIs) and multi-platform applications
 that run on all major desktop platforms and most mobile or embedded platforms. Most GUI programs created with 
