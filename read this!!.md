@@ -1,6 +1,10 @@
 <QT TUTORIAL >
-
+___________________________________________________
 !!READ THIS!!
+  
+  
+  
+__________________________________________________
 Author: Ridho azhar megantara,S.ST.
 
 Qt (pronounced "cute") is a free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform 
