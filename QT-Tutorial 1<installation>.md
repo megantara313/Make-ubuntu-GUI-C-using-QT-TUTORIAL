@@ -1,1 +1,1 @@
--
+- go to this site (https://www.qt.io/download)
